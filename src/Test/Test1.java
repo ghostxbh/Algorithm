@@ -1,7 +1,6 @@
 package Test;
 
 
-import com.uzykj.algorithm.exchangeSort.BubbleSort;
 import com.uzykj.algorithm.exchangeSort.QuickSort;
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.uzykj.algorithm.chooseSort;
+package com.uzykj.algorithm.sort.chooseSort;
 
 
 /**

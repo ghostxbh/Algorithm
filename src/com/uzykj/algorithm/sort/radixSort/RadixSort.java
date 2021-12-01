@@ -1,4 +1,4 @@
-package com.uzykj.algorithm.radixSort;
+package com.uzykj.algorithm.sort.radixSort;
 
 import java.util.ArrayList;
 

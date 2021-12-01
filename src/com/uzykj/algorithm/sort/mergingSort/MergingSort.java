@@ -1,4 +1,4 @@
-package com.uzykj.algorithm.mergingSort;
+package com.uzykj.algorithm.sort.mergingSort;
 
 /**
  * @author ghostxbh

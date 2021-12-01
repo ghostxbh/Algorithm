@@ -1,4 +1,4 @@
-package com.uzykj.algorithm.insertionSort;
+package com.uzykj.algorithm.sort.insertionSort;
 
 /**
  * @author name

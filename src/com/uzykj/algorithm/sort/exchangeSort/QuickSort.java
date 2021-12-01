@@ -1,4 +1,4 @@
-package com.uzykj.algorithm.exchangeSort;
+package com.uzykj.algorithm.sort.exchangeSort;
 
 /**
  * @author ghostxbh
